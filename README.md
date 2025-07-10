@@ -170,4 +170,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with ❤️ by [Your Name] | Free and open-source AI for everyone.
+> Made with ❤️ by Paul Light | Free and open-source AI for everyone.
