@@ -1,0 +1,26 @@
+name: Industry RAG Lab CI
+on:
+  push:
+    paths:
+      - "industry-rag-lab/**"
+      - ".github/workflows/industry-rag-lab-ci.yml"
+  pull_request:
+    paths:
+      - "industry-rag-lab/**"
+      - ".github/workflows/industry-rag-lab-ci.yml"
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install only unit-test dependencies
+        run: python -m pip install -r industry-rag-lab/requirements-ci.txt
+      - name: Syntax check
+        run: python -m compileall -q industry-rag-lab/rag_lab
+      - name: Unit and API tests
+        run: python -m pytest -q industry-rag-lab/tests
+        env:
+          PYTHONPATH: industry-rag-lab

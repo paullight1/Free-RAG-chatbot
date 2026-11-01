@@ -1,0 +1,5 @@
+{"question":"How quickly must the team respond to a P1 incident?","expected_sources":["incident_sla.md"]}
+{"question":"How soon must a post-incident review be published?","expected_sources":["incident_sla.md"]}
+{"question":"When do we submit travel receipts?","expected_sources":["employee_handbook.md"]}
+{"question":"Who must approve access to customer data?","expected_sources":["data_access_policy.md"]}
+{"question":"What do I do if my laptop has not arrived?","expected_sources":["employee_handbook.md"]}
