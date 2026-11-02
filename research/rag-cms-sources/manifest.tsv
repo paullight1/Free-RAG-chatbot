@@ -1,0 +1,27 @@
+category	folder	upstream	branch	pinned_commit	purpose
+rag-platforms	research/rag-cms-sources/rag-platforms/weknora	Tencent/WeKnora	main	d9c1cf65f0d8ad56e11a1c6340b635e4fede107c	AI knowledge CMS and wiki
+rag-platforms	research/rag-cms-sources/rag-platforms/ragflow	infiniflow/ragflow	main	45ffe5c1073bea6f6af72cad4ca527dc81f97692	Advanced document RAG
+rag-platforms	research/rag-cms-sources/rag-platforms/docsgpt	arc53/DocsGPT	main	e565267e08aadc8d3709ec1cdd07d4641bc38a22	Customer-facing RAG assistants
+rag-platforms	research/rag-cms-sources/rag-platforms/onyx-foss	onyx-dot-app/onyx-foss	main	2b8ef19ff458a8bb2bfebb05fc09dd49a73f708a	Enterprise knowledge search
+rag-platforms	research/rag-cms-sources/rag-platforms/r2r	SciPhi-AI/R2R	main	9c5a94d151f90876bd7eb860f300a8fd662dc481	API-first RAG backend
+rag-platforms	research/rag-cms-sources/rag-platforms/openrag	langflow-ai/openrag	main	f00c10396a09738fbf0c88ac3d989ba184462336	All-in-one RAG application
+rag-platforms	research/rag-cms-sources/rag-platforms/anything-llm	Mintplex-Labs/anything-llm	master	9caf2b4c29d9782f1cba4142be2525ebfa0ecd43	Private knowledge chat
+rag-platforms	research/rag-cms-sources/rag-platforms/langflow	langflow-ai/langflow	main	b5c54a64e685b7e50fd3bc76e965ad718fc2dea3	Visual RAG workflows
+rag-platforms	research/rag-cms-sources/rag-platforms/kotaemon	Cinnamon/kotaemon	main	9ad3e4e49aa35b8acddd235918a5d9753c1cfdf9	Research PDFs and citations
+rag-platforms	research/rag-cms-sources/rag-platforms/maxkb	1Panel-dev/MaxKB	v2	0c7dd350a17fe3e885f30fbfb274badef08ac37c	Knowledge-base agent platform
+rag-platforms	research/rag-cms-sources/rag-platforms/dify	langgenius/dify	main	24da932967e9dfac79c65db8c85632b4aaea5204	AI application platform, licensing caution
+rag-platforms	research/rag-cms-sources/rag-platforms/quivr	The-Vibe-Company/quivr	main	0f9ce97492ebc2f577629bcc958f377e4f8673c0	Continuous knowledge ingestion
+cms	research/rag-cms-sources/cms/payload	payloadcms/payload	main	ec351643011603cf75dc91db5d03f80ff120f1e9	Full-featured Next.js CMS
+cms	research/rag-cms-sources/cms/payloadcms-vectorize	techiejd/payloadcms-vectorize	main	75071cf6a20d524b7f14fbcbee12fe9a36f795a4	CMS embeddings extension
+cms	research/rag-cms-sources/cms/payload-ai	ashbuilds/payload-ai	main	2ed6d78003df1a4615634446be4c9dd45c9f1422	Payload AI editor plugin
+cms	research/rag-cms-sources/cms/strapi	strapi/strapi	develop	183cb090590760fc7642613dc8092646fdc9e7c7	Headless CMS
+cms	research/rag-cms-sources/cms/directus	directus/directus	main	c40ab79f2c4ac573b2c7424b2c591fd79f7b116f	Database-driven CMS, licensing caution
+components	research/rag-cms-sources/components/docling	docling-project/docling	main	07154cdc82500058ad9377bac92beed3de820458	Document parsing
+components	research/rag-cms-sources/components/qdrant	qdrant/qdrant	master	222b2e44ab1c3f17e8246396ead6558e45041df7	Vector database
+components	research/rag-cms-sources/components/pgvector	pgvector/pgvector	master	1d5ef0a160cadec08f754528669ce17e20eab38c	Vector search for PostgreSQL
+components	research/rag-cms-sources/components/lightrag	HKUDS/LightRAG	main	aaebfe1bb8d55deb6a4304d357a3bf4c92fcd40a	Graph-enhanced RAG
+components	research/rag-cms-sources/components/llama_index	run-llama/llama_index	main	619d74664e8404612038bc15a1a40c686037277c	RAG indexing framework
+components	research/rag-cms-sources/components/haystack	deepset-ai/haystack	main	ea040f1d8a6f48728bc77222db0a39b94a714bf7	RAG pipeline framework
+components	research/rag-cms-sources/components/langfuse	langfuse/langfuse	main	94aa28e93ea3fc9cd9dbf6f3ff8fd9066fadd39b	LLM observability and evaluations
+archive-extra	research/rag-cms-sources/archive-extra/flowise	FlowiseAI/Flowise	main	9291856d1ea4a4ceea9f8fef8ce14f4f6c81e8eb	Archived visual agent workflow repository
+archive-extra	research/rag-cms-sources/archive-extra/open-webui	open-webui/open-webui	main	f7ac7ee10962ddec0017f5c29b6740d9b9c5faca	AI chat interface, licensing caution
