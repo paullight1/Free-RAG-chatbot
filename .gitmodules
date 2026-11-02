@@ -1,0 +1,129 @@
+[submodule "research/rag-cms-sources/rag-platforms/weknora"]
+	path = research/rag-cms-sources/rag-platforms/weknora
+	url = https://github.com/Tencent/WeKnora.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/ragflow"]
+	path = research/rag-cms-sources/rag-platforms/ragflow
+	url = https://github.com/infiniflow/ragflow.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/docsgpt"]
+	path = research/rag-cms-sources/rag-platforms/docsgpt
+	url = https://github.com/arc53/DocsGPT.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/onyx-foss"]
+	path = research/rag-cms-sources/rag-platforms/onyx-foss
+	url = https://github.com/onyx-dot-app/onyx-foss.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/r2r"]
+	path = research/rag-cms-sources/rag-platforms/r2r
+	url = https://github.com/SciPhi-AI/R2R.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/openrag"]
+	path = research/rag-cms-sources/rag-platforms/openrag
+	url = https://github.com/langflow-ai/openrag.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/anything-llm"]
+	path = research/rag-cms-sources/rag-platforms/anything-llm
+	url = https://github.com/Mintplex-Labs/anything-llm.git
+	branch = master
+
+[submodule "research/rag-cms-sources/rag-platforms/langflow"]
+	path = research/rag-cms-sources/rag-platforms/langflow
+	url = https://github.com/langflow-ai/langflow.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/kotaemon"]
+	path = research/rag-cms-sources/rag-platforms/kotaemon
+	url = https://github.com/Cinnamon/kotaemon.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/maxkb"]
+	path = research/rag-cms-sources/rag-platforms/maxkb
+	url = https://github.com/1Panel-dev/MaxKB.git
+	branch = v2
+
+[submodule "research/rag-cms-sources/rag-platforms/dify"]
+	path = research/rag-cms-sources/rag-platforms/dify
+	url = https://github.com/langgenius/dify.git
+	branch = main
+
+[submodule "research/rag-cms-sources/rag-platforms/quivr"]
+	path = research/rag-cms-sources/rag-platforms/quivr
+	url = https://github.com/The-Vibe-Company/quivr.git
+	branch = main
+
+[submodule "research/rag-cms-sources/cms/payload"]
+	path = research/rag-cms-sources/cms/payload
+	url = https://github.com/payloadcms/payload.git
+	branch = main
+
+[submodule "research/rag-cms-sources/cms/payloadcms-vectorize"]
+	path = research/rag-cms-sources/cms/payloadcms-vectorize
+	url = https://github.com/techiejd/payloadcms-vectorize.git
+	branch = main
+
+[submodule "research/rag-cms-sources/cms/payload-ai"]
+	path = research/rag-cms-sources/cms/payload-ai
+	url = https://github.com/ashbuilds/payload-ai.git
+	branch = main
+
+[submodule "research/rag-cms-sources/cms/strapi"]
+	path = research/rag-cms-sources/cms/strapi
+	url = https://github.com/strapi/strapi.git
+	branch = develop
+
+[submodule "research/rag-cms-sources/cms/directus"]
+	path = research/rag-cms-sources/cms/directus
+	url = https://github.com/directus/directus.git
+	branch = main
+
+[submodule "research/rag-cms-sources/components/docling"]
+	path = research/rag-cms-sources/components/docling
+	url = https://github.com/docling-project/docling.git
+	branch = main
+
+[submodule "research/rag-cms-sources/components/qdrant"]
+	path = research/rag-cms-sources/components/qdrant
+	url = https://github.com/qdrant/qdrant.git
+	branch = master
+
+[submodule "research/rag-cms-sources/components/pgvector"]
+	path = research/rag-cms-sources/components/pgvector
+	url = https://github.com/pgvector/pgvector.git
+	branch = master
+
+[submodule "research/rag-cms-sources/components/lightrag"]
+	path = research/rag-cms-sources/components/lightrag
+	url = https://github.com/HKUDS/LightRAG.git
+	branch = main
+
+[submodule "research/rag-cms-sources/components/llama_index"]
+	path = research/rag-cms-sources/components/llama_index
+	url = https://github.com/run-llama/llama_index.git
+	branch = main
+
+[submodule "research/rag-cms-sources/components/haystack"]
+	path = research/rag-cms-sources/components/haystack
+	url = https://github.com/deepset-ai/haystack.git
+	branch = main
+
+[submodule "research/rag-cms-sources/components/langfuse"]
+	path = research/rag-cms-sources/components/langfuse
+	url = https://github.com/langfuse/langfuse.git
+	branch = main
+
+[submodule "research/rag-cms-sources/archive-extra/flowise"]
+	path = research/rag-cms-sources/archive-extra/flowise
+	url = https://github.com/FlowiseAI/Flowise.git
+	branch = main
+
+[submodule "research/rag-cms-sources/archive-extra/open-webui"]
+	path = research/rag-cms-sources/archive-extra/open-webui
+	url = https://github.com/open-webui/open-webui.git
+	branch = main
